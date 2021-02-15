@@ -13,7 +13,7 @@ from time import sleep
 # ----------------------------------------------------------------Hyper Parameters ----------------------------------------------------------------------
 
 batch_size = 32
-num_epochs = 10
+num_epochs = 100
 learning_rate = 3e-4
 num_classes = 10
 checkpoint_file = 'checkpoints\\checkpoint{}.pth.tar'
